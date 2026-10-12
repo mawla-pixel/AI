@@ -1,0 +1,6 @@
+{
+  "name": "Al Mamoura Film Festival - AI Contest Jury Portal",
+  "description": "Official screening and adjudication portal for judges of the Al Mamoura Film Festival AI competition, featuring Bunny Stream video playback, precision rubrics, and timecoded jury deliberation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
